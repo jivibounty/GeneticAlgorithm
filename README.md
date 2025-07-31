@@ -1,2 +1,2 @@
 # GeneticAlgorithm
-C++ Genetic Algorithm Simple Code
+Simple C++ Genetic Algorithm Code
