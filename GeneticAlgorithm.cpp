@@ -4,7 +4,7 @@
 #include <utility>
 #include <iostream>
 
-namespace hg
+namespace afro
 {
    
      static const int RAND_MAX_VALUE = 10000000;
