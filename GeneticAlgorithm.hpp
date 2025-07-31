@@ -4,7 +4,7 @@
 #include <vector>
 #include <functional>
 
-namespace hg
+namespace afro
 {
     
     enum class GADataType
